@@ -28,7 +28,22 @@ Basic functions such as playing music are totally free, but you can also choose 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-kathiriya&show_icons=true&locale=en&layout=compact" alt="dhruv-kathiriya" /></p>
+<br><br><br><br><br><br><br><br>
+
+<h3 align="left">Screenshot:</h3>
+<img src ="https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/eb129c53-3995-4283-9e6d-3247a0fd310d" width = "250">
+<img src ="https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/4bfefe27-1209-4f77-8da5-987f2d1434d1" width = "250">
+<img src ="https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/dcd9e647-5be8-493e-9792-b06476fe06d0" width = "250">
+<img src ="https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/b0bae284-f84e-4a38-b142-02b9450c502b" width = "250">
+<img src = "https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/39abf974-4f6d-4e31-811c-36037b21f6fc" width = "250">
+<img src  = "https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/da82e375-82e7-42e9-86cf-1fa8723c11ef" width = "250">
+<img src = "https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/c89aba0a-7cee-4fb9-aad9-7086d4af711a" width = "250">
+
+
+
+
+
+
 <br>
-
-screenshot:
-
+<h3 align="left">Video:</h3>
+<video src = "https://github.com/Dhruv-Kathiriya/spotify_App_ui/assets/150034575/0eeb3ba5-17a9-4e4b-88bf-0e7b8da23feb" width = "300">
